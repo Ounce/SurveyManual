@@ -1,2 +1,6 @@
-# SurveyManual
+# Survey Manual
 Survey程序的使用手册。
+
+## 重要说明
+
+由于AutoCAD默认样式中汉字显示错误（显示“？？”）。建议将样式的字体改成“宋体”或“仿宋”等字体。
