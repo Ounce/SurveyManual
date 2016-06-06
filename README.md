@@ -1,5 +1,9 @@
-# Survey Manual
-Survey程序的使用手册。
+# Survey使用手册
+Survey是一个将纵断面测量结果转化为AutoCAD的.dxf格式文件的小软件。
+
+这个软件本身并不能计算和整理测量数据，需要用户按一定格式要求整理好测量数据并保存在Excel文件中。
+
+.dxf文件是AutoCAD的一种开放格式。用户可以使用AutoCAD打开.dxf文件，并另存为AutoCAD的标准格式文件.dwg文件。
 
 ## 重要说明
 
